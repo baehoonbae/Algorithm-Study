@@ -3,7 +3,7 @@ import java.util.*;
 
 // 숨바꼭질 문제와 비슷하게 bfs로 풀어야하는 문제인줄 알았음
 // dp는 아니지만 단순한 수학적 패턴을 발견하면 쉽게 풀리는 문제.. 
-public class Main_1011 {
+public class Main {
 	
 	static int T, x, y;
 
